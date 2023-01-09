@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+}
+.nav-list{
+    width: 50%;
+    background-color: bisque;
+}
+.nav-list li{
+
+}
+.nav-list li a{
+
+}
